@@ -1,6 +1,6 @@
 # vue-moviesearcher
 
-Moviesearcher is an app that allows you to search for information about films. It uses OMDb API - The Open Movie Database to get all the information about film you search for.
+Moviesearcher is an app that allows you to search for information about films. It uses OMDb API - The Open Movie Database to get all the information about movie you search for.
 ## Home view
 ![screenshot](./src/assets/screens/homeview.png)
 
