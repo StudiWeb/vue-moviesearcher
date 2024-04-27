@@ -10,7 +10,9 @@
         <span class="underline">Moviesearcher</span> app allows you to search for thousand and
         thousand movies from all over the world.
       </p>
-      <Button class="p-button p-component" icon="pi pi-github" label="Github" />
+      <a href="https://github.com/StudiWeb/vue-moviesearcher" target="_blank" rel="noopener">
+        <Button class="p-button p-component" icon="pi pi-github" label="Github" />
+      </a>
     </div>
   </div>
 </template>
