@@ -2,6 +2,8 @@
 
 Moviesearcher is an app that allows you to search for information about films. It uses OMDb API - The Open Movie Database to get all the information about film you search for.
 
+![Alt text](relative%2src/assets/images/homeview.png?raw=true "Title")
+
 # Tech Stack
 
 Project is build on Vue.js framework with the Option Api approach. For better design I used PrimeVue - UI Component Library and Primeflex as a support for CSS. State of the app is managed by Pinia library.
