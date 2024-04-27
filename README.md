@@ -2,7 +2,8 @@
 
 Moviesearcher is an app that allows you to search for information about films. It uses OMDb API - The Open Movie Database to get all the information about film you search for.
 ## Home view
-![screenshot](./src/assets/screens/homeview.png | width=100)
+![screenshot](./src/assets/screens/homeview.png)
+![](./src/assets/screens/homeview.png | width=100)
 
 ## Movie list view
 ![screenshot](./src/assets/screens/movielistview.png)
